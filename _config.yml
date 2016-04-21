@@ -1,7 +1,7 @@
 name: miles
 favicon: null
-layout_spectrum: 0.7234543762169778
-typography_spectrum: 0.057598349871113896
+layout_spectrum: 1
+typography_spectrum: 0.73738
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.4866998002398759
-  lightness: 0.11472085095010698
-  saturation: 0.4557485464029014
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.9201420194003731
 purpose: []

@@ -1,7 +1,7 @@
 name: miles
 favicon: null
-layout_spectrum: 0.53667
-typography_spectrum: 0.73738
+layout_spectrum: 0.56619
+typography_spectrum: 0.1136
 title: miles cooke
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 0.9201420194003731
+  rhythmicContrast: 1
 purpose: []

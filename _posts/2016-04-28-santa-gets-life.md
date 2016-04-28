@@ -5,10 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'BREAKING NEWS: Santa Claus gets life after an investigation into an incident of drunk driving caused detectives to look more closely at his activities.'
-datePublished: '2016-04-28T14:17:59.838Z'
-dateModified: '2016-04-28T14:17:58.589Z'
+datePublished: '2016-04-28T16:13:00.457Z'
+dateModified: '2016-04-28T16:12:55.451Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-28-santa-gets-life.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,13 +18,12 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-28-santa-gets-life.md
-published: true
 url: santa-gets-life/index.html
 _type: WebPage
 
 ---
 **BREAKING NEWS: Santa Claus gets life after an investigation into an incident of drunk driving caused detectives to look more closely at his activities.**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0846115d-bf4d-4615-aacc-6f98274ab868.jpg)
 
 The fiend was caught red handed when an off duty policeman witnessed Mr. Claus, age 1744 years, delivering presents while heavily inebriated, the authorities have now linked this to Mr. Claus consuming an illegal amount of alcohol offered by families.
 
@@ -39,3 +40,4 @@ Officials have now managed to locate the Christmas Brownie's hideout, and were h
 Scores of countries around the world are asking questions concerning breaches in their air space. North Korean officials have said, "These frequent and planned incursions into our air space will not be tolerated, we will shoot down anything and anyone who illegally enters our air space, and are updating our systems to detect more of Santa's known accomplices, make no mistake we will use deadly force." Dozens of extradition requests across the world are now pending.
 
 Saint Nicholas was known to have many friends in high places, such as Obama and Putin, who are now desperately trying to distance themselves from him, claiming ignorance of all his crimes.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a47f89c2-a8c1-4183-8e20-fc2fd4054186.jpg)
